@@ -1,3 +1,5 @@
+![image](https://github.com/gustavomfb231/gustavomfb231/assets/137857052/a95d36d4-e45b-4f9e-80ab-9f070cb5eab8)
+
 👋 Hi, there! I'm Gustavo Mulford, a passionate data enthusiast and machine learning lover currently pursuing a degree in Mechatronics Engineering at UnB. 
 
 📊 My Journey in Data Science:
